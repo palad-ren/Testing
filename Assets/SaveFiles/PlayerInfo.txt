@@ -1,0 +1,4 @@
+<Id>"0"</Id>
+<Name>"Player1"</Name>
+<Speed>"1"</Speed>
+<RotationSpeed>"100"</RotationSpeed>
