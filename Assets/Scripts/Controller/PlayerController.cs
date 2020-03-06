@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
+        //editei aqui
         characterController = this.GetComponent<CharacterController>();
         repository = new GenericRepository<Player>();
     }
