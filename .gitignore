@@ -10,3 +10,6 @@
 /obj/Debug
 /Packages
 /Temp
+/$tf
+/.vs
+/obj/Release
